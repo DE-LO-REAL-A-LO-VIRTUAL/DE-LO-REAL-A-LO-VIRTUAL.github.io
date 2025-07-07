@@ -61,7 +61,7 @@ explores its potential as an accessible tool for simulation and design.
   <div>
     <a href="https://github.com/DE-LO-REAL-A-LO-VIRTUAL/DE-LO-REAL-A-LO-VIRTUAL.github.io/raw/main/TFG.pdf" class="btn" download="TFG.pdf">Descargar TFG (PDF)</a>
     <a href="https://github.com/DE-LO-REAL-A-LO-VIRTUAL/DE-LO-REAL-A-LO-VIRTUAL.github.io/raw/main/Guia.pdf" class="btn" download="Guia.pdf">Descargar Guía (PDF)</a>
-    <a href="https://github.com/DE-LO-REAL-A-LO-VIRTUAL/DE-LO-REAL-A-LO-VIRTUAL.github.io/releases/tag/v1.0" class="btn" download>Descargar Vehículo (ZIP)</a>
+    <a href="https://github.com/DE-LO-REAL-A-LO-VIRTUAL/DE-LO-REAL-A-LO-VIRTUAL.github.io/releases/download/v1.0/Subaru_WRX_STI_2015.zip" class="btn" download>Descargar Vehículo (ZIP)</a>
   </div>
 
 </body>
