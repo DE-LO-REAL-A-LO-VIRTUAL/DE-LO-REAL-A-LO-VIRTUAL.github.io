@@ -5,6 +5,7 @@ este es mi codigo "<html lang="es">
   <title>De lo Real a lo Virtual</title>
   <style>
     body {
+      background-image: url("images\background.png");
       font-family: Arial, sans-serif;
       background-color: #f8f9fa;
       color: #333;
