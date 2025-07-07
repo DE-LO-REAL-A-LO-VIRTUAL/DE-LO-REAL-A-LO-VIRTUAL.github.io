@@ -4,6 +4,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <h1>De lo Real a lo Virtual</h1>
   <style>
+  h1:first-of-type {
+    display: none;
+  }
+</style>
     body {
       font-family: Arial, sans-serif;
       background-color: #f8f9fa;
