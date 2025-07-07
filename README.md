@@ -2,8 +2,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <h1>De lo Real a lo Virtual</h1>
-  </style>
+  <title>De lo Real a lo Virtual</title>
+  <style>
     body {
       font-family: Arial, sans-serif;
       background-color: #f8f9fa;
@@ -57,6 +57,7 @@ external entities to replicate the process for creative, educational, or social 
 Thus, this work not only contributes technical value to the video game sector but also 
 explores its potential as an accessible tool for simulation and design.
   </p>
+
 
   <div>
     <a href="https://github.com/DE-LO-REAL-A-LO-VIRTUAL/DE-LO-REAL-A-LO-VIRTUAL.github.io/raw/main/TFG.pdf" class="btn" download="TFG.pdf">Descargar TFG (PDF)</a>
