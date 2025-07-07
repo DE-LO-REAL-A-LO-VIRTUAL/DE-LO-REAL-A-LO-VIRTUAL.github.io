@@ -19,6 +19,7 @@
     h1, h3 {
       color: #2c3e50;
       text-shadow: 1px 1px 2px #fff;
+      margin-bottom: 1rem;
     }
     p {
       max-width: 600px;
@@ -27,6 +28,7 @@
       background-color: rgba(255,255,255,0.8);
       padding: 1rem;
       border-radius: 8px;
+      line-height: 1.5;
     }
     .btn {
       display: inline-block;
