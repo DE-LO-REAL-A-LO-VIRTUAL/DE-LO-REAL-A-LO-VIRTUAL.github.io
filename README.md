@@ -4,7 +4,7 @@
   <title>De lo Real a lo Virtual</title>
   <style>
     body {
-      font-family: 'Aptos' Arial, san-serif;
+      font-family: 'Aptos', Arial, san-serif;
       font-weight: 500;
       background-image: url('background.png');
       background-size: cover;
