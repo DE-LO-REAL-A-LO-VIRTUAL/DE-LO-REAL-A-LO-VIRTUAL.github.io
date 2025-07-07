@@ -4,7 +4,6 @@
   <title>De lo Real a lo Virtual</title>
   <style>
     body {
-      background-image: url("img\background.png");
       font-family: Arial, sans-serif;
       background-color: #f8f9fa;
       color: #333;
@@ -35,7 +34,7 @@
     }
   </style>
 </head>
-<body>
+<body style= "background:irl(img./background.png)">
   <p>
     Este trabajo presenta el desarrollo de una metodología accesible y replicable para la
 digitalización de objetos reales mediante escaneado 3D, con el objetivo de integrarlos
