@@ -45,9 +45,9 @@
   </p>
 
   <div>
-    <a href="documentos/TFG_Julio.pdf" class="btn" download>Descargar TFG (PDF)</a>
-    <a href="documentos/Guia_Metodologia.pdf" class="btn" download>Descargar Guía (PDF)</a>
-    <a href="descargas/Subaru_WRX_Virtualizado.zip" class="btn" download>Descargar Vehículo (ZIP)</a>
+    <a href="documentos/TFG.pdf" class="btn" download>Descargar TFG (PDF)</a>
+    <a href="documentos/Guia.pdf" class="btn" download>Descargar Guía (PDF)</a>
+    <a href="descargas/Subaru_WRX_STI_2015.zip" class="btn" download>Descargar Vehículo (ZIP)</a>
   </div>
 
 </body>
