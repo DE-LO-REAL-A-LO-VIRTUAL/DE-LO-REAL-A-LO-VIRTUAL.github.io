@@ -37,25 +37,27 @@
 </head>
 <body>
   <p>
-    This work presents the development of an accessible and replicable methodology for the 
-digitization of real-world objects through 3D scanning, with the aim of faithfully 
-integrating them into virtual environments, particularly in the field of video games. Based 
-on a hypothesis that proposes the technical and functional viability of this process, a 
-three-phase approach has been established: theoretical research, practical 
-development, and results analysis. As a case study, a 2015 Subaru WRX STI was scanned 
-and virtualized, selected primarily for its geometric complexity, symbolic value, and 
-applicability in simulators, among other factors evaluated using decision matrices. 
-Following market research and an interview, the EINSTAR (SHINING 3D, 2022) device was 
-selected for the scanning process. Various techniques, both existent and designed 
-personally, were applied and designed to optimize both this process and the post
-processing of the resulting mesh. The vehicle's implementation in the Assetto Corsa 
-simulator (Kunos Simulazioni, 2014) served to validate the proposed methodology, 
-assessing the scan’s fidelity, workflow efficiency, and user experience from the 
-perspective of a novice in this sector of the industry.  
-The result is a clear and practical methodology that allows industry developers and 
-external entities to replicate the process for creative, educational, or social purposes. 
-Thus, this work not only contributes technical value to the video game sector but also 
-explores its potential as an accessible tool for simulation and design.
+    Este trabajo presenta el desarrollo de una metodología accesible y replicable para la
+digitalización de objetos reales mediante escaneado 3D, con el objetivo de integrarlos
+con fidelidad en entornos virtuales, particularmente en el ámbito de los videojuegos.
+Partiendo de una hipótesis que plantea la viabilidad técnica y funcional de este proceso,
+se ha establecido un enfoque dividido en tres fases: investigación teórica, desarrollo
+práctico y análisis de resultados. Como caso de estudio, se ha escaneado y virtualizado
+un Subaru WRX STI 2015, seleccionando esta pieza principalmente por su complejidad
+geométrica, valor simbólico y aplicabilidad en simuladores además de otros factores
+evaluados utilizando matrices. Tras un estudio del mercado y una entrevista, se
+seleccionó el dispositivo EINSTAR (SHINING 3D, 2022) para el proceso de escaneado. Se
+aplicaron diversas técnicas existentes y personalmente diseñadas para optimizar tanto
+este proceso como el de postprocesado de la malla resultante. La implementación del
+vehículo en el simulador Assetto Corsa (Kunos Simulazioni, 2014), ha servido para
+validar la metodología propuesta, evaluando la fidelidad del escaneo, la eficiencia del
+flujo de trabajo y la experiencia para un usuario novel en este sector de la industria. El
+resultado ha sido la creación de una metodología clara y práctica que permite a
+desarrolladores de la industria y entidades externas replicar el proceso con fines
+creativos, educativos o sociales. Así, este trabajo no solo aporta valor técnico al sector
+del videojuego, sino que explora también su potencial como herramienta accesible de
+simulación y diseño.
+
   </p>
 
 
