@@ -45,7 +45,7 @@
   </style>
 </head>
 <body>
-   <div style="background-color: rgba(300, 300, 300, 0.8); padding: 2rem; max-width: 700px; margin: 2rem auto; border-radius: 10px;">
+   <div style="background-color: rgba(300, 300, 300, 0.8); padding: 2rem; max-width: 1000px; margin: 2rem auto; border-radius: 10px;">
    <h3>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
   DIGITALIZACIÓN DE OBJETOS ORIENTADA AL USUARIO Y 
   APLICADA AL SECTOR DE VIDEOJUEGOS</h3>
