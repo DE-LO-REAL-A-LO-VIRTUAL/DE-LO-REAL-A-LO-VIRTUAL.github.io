@@ -1,4 +1,4 @@
-ya funciona. <head>
+<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>De lo Real a lo Virtual</title>
@@ -78,4 +78,4 @@ simulación y diseño.
     <a href="https://github.com/DE-LO-REAL-A-LO-VIRTUAL/DE-LO-REAL-A-LO-VIRTUAL.github.io/releases/download/v1.0/Subaru_WRX_STI_2015.zip" class="btn" download>Descargar Vehículo (ZIP)</a>
   </div>
 
-</body> "
+</body>
