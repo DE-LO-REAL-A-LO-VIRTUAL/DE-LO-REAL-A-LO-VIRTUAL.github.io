@@ -35,7 +35,7 @@
     }
     /* Div vacío para separar con espacio */
     .spacer {
-      height: 600px; /* ajusta la altura que necesites */
+      height: 550px; /* ajusta la altura que necesites */
     }
   </style>
 </head>
