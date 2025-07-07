@@ -1,4 +1,3 @@
-este es mi codigo "<html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -67,4 +66,3 @@ explores its potential as an accessible tool for simulation and design.
   </div>
 
 </body>
-</html>" implementalo allí
