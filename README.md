@@ -45,10 +45,10 @@
   </style>
 </head>
 <body>
-   <div style="background-color: rgba(250, 250, 250, 0.8); padding: 2rem; max-width: 1000px; margin: 2rem auto; border-radius: 10px;">
    <h3>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
   DIGITALIZACIÓN DE OBJETOS ORIENTADA AL USUARIO Y 
   APLICADA AL SECTOR DE VIDEOJUEGOS</h3>
+  <div style="background-color: rgba(250, 250, 250, 0.8); padding: 2rem; max-width: 1000px; margin: 2rem auto; border-radius: 10px;">
   <p>
     Este trabajo presenta el desarrollo de una metodología accesible y replicable para la
 digitalización de objetos reales mediante escaneado 3D, con el objetivo de integrarlos
@@ -72,7 +72,7 @@ del videojuego, sino que explora también su potencial como herramienta accesibl
 simulación y diseño.
 
   </p>
-
+</div>
 
   <div>
     <a href="https://github.com/DE-LO-REAL-A-LO-VIRTUAL/DE-LO-REAL-A-LO-VIRTUAL.github.io/raw/main/TFG.pdf" class="btn" download="TFG.pdf">Descargar TFG (PDF)</a>
@@ -80,4 +80,4 @@ simulación y diseño.
     <a href="https://github.com/DE-LO-REAL-A-LO-VIRTUAL/DE-LO-REAL-A-LO-VIRTUAL.github.io/releases/download/v1.0/Subaru_WRX_STI_2015.zip" class="btn" download>Descargar Vehículo (ZIP)</a>
   </div>
 
-</body>
+
