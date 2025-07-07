@@ -45,9 +45,9 @@
   </style>
 </head>
 <body>
-   <h3>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
+   <h2>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
   DIGITALIZACIÓN DE OBJETOS ORIENTADA AL USUARIO Y 
-  APLICADA AL SECTOR DE VIDEOJUEGOS</h3>
+  APLICADA AL SECTOR DE VIDEOJUEGOS</h2>
   <div style="background-color: rgba(250, 250, 250, 0.8); padding: 2rem; max-width: 600px; margin: 2rem auto; border-radius: 10px;">
   <p>
     Este trabajo presenta el desarrollo de una metodología accesible y replicable para la
