@@ -36,11 +36,26 @@
   </style>
 </head>
 <body>
-
-  <h1>De lo Real a lo Virtual</h1>
   <p>
-    Este proyecto presenta una metodología accesible y replicable para la digitalización de objetos reales mediante escaneado 3D, 
-    con aplicación práctica en videojuegos y una especial atención a la experiencia del usuario.
+    This work presents the development of an accessible and replicable methodology for the 
+digitization of real-world objects through 3D scanning, with the aim of faithfully 
+integrating them into virtual environments, particularly in the field of video games. Based 
+on a hypothesis that proposes the technical and functional viability of this process, a 
+three-phase approach has been established: theoretical research, practical 
+development, and results analysis. As a case study, a 2015 Subaru WRX STI was scanned 
+and virtualized, selected primarily for its geometric complexity, symbolic value, and 
+applicability in simulators, among other factors evaluated using decision matrices. 
+Following market research and an interview, the EINSTAR (SHINING 3D, 2022) device was 
+selected for the scanning process. Various techniques, both existent and designed 
+personally, were applied and designed to optimize both this process and the post
+processing of the resulting mesh. The vehicle's implementation in the Assetto Corsa 
+simulator (Kunos Simulazioni, 2014) served to validate the proposed methodology, 
+assessing the scan’s fidelity, workflow efficiency, and user experience from the 
+perspective of a novice in this sector of the industry.  
+The result is a clear and practical methodology that allows industry developers and 
+external entities to replicate the process for creative, educational, or social purposes. 
+Thus, this work not only contributes technical value to the video game sector but also 
+explores its potential as an accessible tool for simulation and design.
   </p>
 
   <div>
