@@ -5,7 +5,10 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f8f9fa;
+      background-image: url('img/background.png');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
       color: #333;
       margin: 0;
       padding: 2rem;
