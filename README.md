@@ -48,7 +48,7 @@
    <h3>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
   DIGITALIZACIÓN DE OBJETOS ORIENTADA AL USUARIO Y 
   APLICADA AL SECTOR DE VIDEOJUEGOS</h3>
-  <div style="background-color: rgba(250, 250, 250, 0.8); padding: 2rem; max-width: 1000px; margin: 2rem auto; border-radius: 10px;">
+  <div style="background-color: rgba(250, 250, 250, 0.8); padding: 2rem; max-width: 600px; margin: 2rem auto; border-radius: 10px;">
   <p>
     Este trabajo presenta el desarrollo de una metodología accesible y replicable para la
 digitalización de objetos reales mediante escaneado 3D, con el objetivo de integrarlos
