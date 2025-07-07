@@ -50,26 +50,19 @@
   APLICADA AL SECTOR DE VIDEOJUEGOS</h2>
   <div style="background-color: rgba(250, 250, 250, 0.8); padding: 2rem; max-width: 800px; margin: 2rem auto; border-radius: 10px;">
   <p>
-    Este trabajo presenta el desarrollo de una metodología accesible y replicable para la
-digitalización de objetos reales mediante escaneado 3D, con el objetivo de integrarlos
-con fidelidad en entornos virtuales, particularmente en el ámbito de los videojuegos.
-Partiendo de una hipótesis que plantea la viabilidad técnica y funcional de este proceso,
-se ha establecido un enfoque dividido en tres fases: investigación teórica, desarrollo
-práctico y análisis de resultados. Como caso de estudio, se ha escaneado y virtualizado
-un Subaru WRX STI 2015, seleccionando esta pieza principalmente por su complejidad
-geométrica, valor simbólico y aplicabilidad en simuladores además de otros factores
-evaluados utilizando matrices. Tras un estudio del mercado y una entrevista, se
-seleccionó el dispositivo EINSTAR (SHINING 3D, 2022) para el proceso de escaneado. Se
-aplicaron diversas técnicas existentes y personalmente diseñadas para optimizar tanto
-este proceso como el de postprocesado de la malla resultante. La implementación del
-vehículo en el simulador Assetto Corsa (Kunos Simulazioni, 2014), ha servido para
-validar la metodología propuesta, evaluando la fidelidad del escaneo, la eficiencia del
-flujo de trabajo y la experiencia para un usuario novel en este sector de la industria. El
-resultado ha sido la creación de una metodología clara y práctica que permite a
-desarrolladores de la industria y entidades externas replicar el proceso con fines
-creativos, educativos o sociales. Así, este trabajo no solo aporta valor técnico al sector
-del videojuego, sino que explora también su potencial como herramienta accesible de
-simulación y diseño.
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
   </p>
 </div>
