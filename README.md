@@ -1,4 +1,4 @@
-<head>
+ya funciona. <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>De lo Real a lo Virtual</title>
@@ -44,8 +44,6 @@
   </style>
 </head>
 <body>
-  <div style="background-color: rgba(255, 255, 255, 0.8); padding: 2rem; max-width: 700px; margin: 2rem auto; border-radius: 10px;">
-    <h3>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
    <h3>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
   DIGITALIZACIÓN DE OBJETOS ORIENTADA AL USUARIO Y 
   APLICADA AL SECTOR DE VIDEOJUEGOS</h3>
@@ -80,4 +78,4 @@ simulación y diseño.
     <a href="https://github.com/DE-LO-REAL-A-LO-VIRTUAL/DE-LO-REAL-A-LO-VIRTUAL.github.io/releases/download/v1.0/Subaru_WRX_STI_2015.zip" class="btn" download>Descargar Vehículo (ZIP)</a>
   </div>
 
-</body>
+</body> "
