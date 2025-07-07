@@ -34,7 +34,7 @@
     }
   </style>
 </head>
-<body style= "background:irl(img./background.png)">
+<body style= "background:url(img/background.png)">
   <p>
     Este trabajo presenta el desarrollo de una metodología accesible y replicable para la
 digitalización de objetos reales mediante escaneado 3D, con el objetivo de integrarlos
