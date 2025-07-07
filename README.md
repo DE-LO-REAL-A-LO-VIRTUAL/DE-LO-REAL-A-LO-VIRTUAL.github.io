@@ -1,7 +1,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>De lo Real a lo Virtual</title>
+  <h1>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
+DIGITALIZACIÓN DE OBJETOS ORIENTADA AL USUARIO Y 
+APLICADA AL SECTOR DE VIDEOJUEGOS<h1>
   <style>
     body {
       font-family: Arial, sans-serif;
