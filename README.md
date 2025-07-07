@@ -5,7 +5,7 @@
   <style>
     body {
       font-family: 'Aptos' Arial, san-serif;
-      font-weight: 700;
+      font-weight: 500;
       background-image: url('background.png');
       background-size: cover;
       background-position: center;
@@ -45,6 +45,7 @@
   </style>
 </head>
 <body>
+   <div style="background-color: rgba(300, 300, 300, 0.8); padding: 2rem; max-width: 700px; margin: 2rem auto; border-radius: 10px;">
    <h3>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
   DIGITALIZACIÓN DE OBJETOS ORIENTADA AL USUARIO Y 
   APLICADA AL SECTOR DE VIDEOJUEGOS</h3>
