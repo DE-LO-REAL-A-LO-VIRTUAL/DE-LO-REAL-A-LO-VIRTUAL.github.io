@@ -17,6 +17,7 @@
     }
     h2 {
       color: #2c3e50;
+      pointer-events: none;
       margin-bottom: 3rem; /* espacio abajo del título */
     }
     .btn {
