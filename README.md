@@ -17,6 +17,12 @@
     h1 {
       color: #2c3e50;
     }
+    h3 {
+      color: #2c3e50;
+      text-decoration: none;
+      cursor: default;
+      pointer-events: none;
+    }
     p {
       max-width: 600px;
       margin: 0 auto 2rem;
