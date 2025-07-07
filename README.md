@@ -1,9 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <h3>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
-DIGITALIZACIÓN DE OBJETOS ORIENTADA AL USUARIO Y 
-APLICADA AL SECTOR DE VIDEOJUEGOS</h3>
+  <title>De lo Real a lo Virtual</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -36,7 +34,10 @@ APLICADA AL SECTOR DE VIDEOJUEGOS</h3>
     }
   </style>
 </head>
-<body style= "background:url(img/background.png)">
+<body>
+   <h3>UNA METODOLOGÍA ACCESIBLE Y REPLICABLE DE 
+  DIGITALIZACIÓN DE OBJETOS ORIENTADA AL USUARIO Y 
+  APLICADA AL SECTOR DE VIDEOJUEGOS</h3>
   <p>
     Este trabajo presenta el desarrollo de una metodología accesible y replicable para la
 digitalización de objetos reales mediante escaneado 3D, con el objetivo de integrarlos
